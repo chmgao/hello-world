@@ -23,3 +23,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
+
+<br>
+    <p> Please fill in this form to create an account.</p>
+    <hr>
