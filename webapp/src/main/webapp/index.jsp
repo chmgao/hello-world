@@ -25,5 +25,5 @@
 </form>
 
 <br>
-    <p> Please fill in this form to create an account.</p>
+    <p> ===================</p>
     <hr>
